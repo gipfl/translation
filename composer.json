@@ -1,0 +1,13 @@
+{
+    "name": "gipfl/translation",
+    "description": "Translation helpers",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Gelf",
+            "email": "thomas@gelf.net"
+        }
+    ],
+    "require": {}
+}
